@@ -102,6 +102,4 @@ dynamic aspects.
 
 ## Contacts
 If you have any questions regarding this project, please locate me at:
-* brianzou03@gmail.com
-* https://github.com/brianzou03
-* https://www.linkedin.com/in/brian-zou-8bbab4203/
+* jb0090874@gmail.com
